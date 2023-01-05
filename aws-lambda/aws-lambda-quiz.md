@@ -432,4 +432,11 @@
 - [ ] AWS SAM
 - [ ] AWS CLI
 - [ ] AWS CloudFormation
-- [ ] AWS SAM CLI
+- [x] AWS SAM CLI
+
+#### Q61. Which tool would you use to test a Lambda locally?
+
+- [ ] Caller
+- [x] Runtime
+- [ ] Request
+- [ ] Account
